@@ -14,7 +14,7 @@
         <tr>
             <th>ID</th>
             <th>Nombre</th>
-            <th>Fecha de Estreno</th>
+            <th>Fecha de Estreno Serie</th>
             <th>Episodio</th>
         </tr>
         <?php foreach ($episodes as $episode): ?>
